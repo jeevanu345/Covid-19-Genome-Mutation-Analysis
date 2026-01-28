@@ -1,6 +1,5 @@
 # COVID-19 Genome Mutation Analysis Pipeline
 
-**Professional-Grade Bioinformatics Pipeline for SARS-CoV-2 Variant Analysis**
 
 Version 2.0 Professional
 
